@@ -1,19 +1,28 @@
-# {{REPO_NAME}}
+# OOP 1: Hello C and Python
 
-- **PowerPoint slideshow**: `{{REPO_NAME}}.pptx`
-- **questions.docx** – `Indeholder spørgsmål som i får i forbindelsen med forlæsningen.`
-- **Lecture specific files** - `En mappe som indeholder filer i skal bruge i forbindelse med forlæsningen.`
+- **Lecture specific files**: files/* - `En mappe som indeholder filer i skal bruge i forbindelse med forlæsningen.`
 ---
 
 ## ​ Usage
 
-To use this template:
-
-1. Click **Use this template** on GitHub to create a new repo.
-2. Clone it locally:
    ```bash
-   git clone https://github.com/you/{{REPO_NAME}}.git
-   cd {{REPO_NAME}}
+   cd ~
+   git clone https://github.com/AAU-ST2-Programming/oop_1.git
+   cd oop_1
+  ```
+## Forberedelse
+- Installer følgende extensions i Visual Studio Code: `Python`, `C/C++` og `jupyter`. (så du kan læse filen herunder i vs code!)
+- Installer python, see `install_python.ipynb`. MUST be done before AP1!!!
+- Read and follow https://www.tutorialspoint.com/python/index.htm
+- Read and follow https://www.tutorialspoint.com/python/python_vs_cpp.htm
+
+
+## Lektions Fokus
+- History description
+- Describe the differences between python and C
+- Run through all the buildin functions for python
+- Setup virtual environment
+
 
 ## Forberedelse
 
