@@ -11,8 +11,10 @@
    cd oop_1
   ```
 ## Forberedelse
+- Følg Python installation guide: https://github.com/AAU-Python-Guides/install_python_guide 
+- Følg VS Code for Python installation guide: https://github.com/AAU-Python-Guides/visual_studio_code_for_python
+- Uninstall alle nuværende extensions i vs code.
 - Installer følgende extensions i Visual Studio Code: `Python`, `C/C++` og `jupyter`. (så du kan læse filen herunder i vs code!)
-- Installer python, see `install_python.ipynb`. MUST be done before AP1!!!
 - Read and follow https://www.tutorialspoint.com/python/index.htm
 - Read and follow https://www.tutorialspoint.com/python/python_vs_cpp.htm
 
@@ -20,7 +22,7 @@
 ## Lektions Fokus
 - History description
 - Describe the differences between python and C
-- Run through all the buildin functions for python
+- Run through some of capabilities of python
 - Setup virtual environment
 
 
