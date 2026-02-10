@@ -1,4 +1,4 @@
-# OOP 1: Hello C and Python
+# Hej C og Python
 
 - **Lecture specific files**: files/* - `En mappe som indeholder filer I skal bruge i forbindelse med forlæsningen.`
 
@@ -39,11 +39,11 @@ Følg denne guide nøje for at være klar til undervisningen:
     *(så du kan læse og arbejde med filerne i denne mappe!)*
 
 ### 3. Download materialet
-```bash
-cd ~
-git clone https://github.com/AAU-ST2-Programming/oop_1.git
-cd oop_1
-```
+> ```zsh
+> cd ~
+> git clone https://github.com/AAU-ST2-Programming/oop_1.git
+> cd oop_1
+> ```
 
 ---
 
@@ -76,7 +76,3 @@ cd oop_1
   - Svar på opgaven
 - Opgaverne bliver gradvist sværere og bygger på tidligere lektioner.
 - Til eksamen vil der kun være en opgavebeskrivelse – du skal selv kunne vurdere, hvordan opgaven løses.
-
----
-
-**Husk:** Brug "Think Python" som din primære kilde til litteratur og reference – og brug gerne Jupyter til at eksperimentere med kode!
