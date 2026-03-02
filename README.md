@@ -11,7 +11,7 @@ Følg denne guide nøje for at være klar til undervisningen:
 ### 1. Literatur
 
 **Primær litteratur:**
-- [Think Python (online bog)](https://allendowney.github.io/ThinkPython/)
+- [Think Python, 3rd Edition af Allen B. Downey (online bog)](https://allendowney.github.io/ThinkPython/)
   - Kapitel 1–4: Introduktion, variabler, funktioner, og flow control
   - Kapitel 9-11: lister, dictionarys, og tuples
 - [Python for Everybody af Charles Severance (PDF)](https://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)
