@@ -43,6 +43,7 @@ Følg denne guide nøje for at være klar til undervisningen:
 > cd ~
 > git clone https://github.com/AAU-ST2-Programming/oop_1.git
 > cd oop_1
+> git pull
 > ```
 
 ---
